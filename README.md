@@ -1,3 +1,4 @@
 # starcraft-mods 
 
-remember when you contribute to a game and actually become happy with it
+some starcraft mods.
+guess which were made by me, I didn't use the name ar3sgice at that time
